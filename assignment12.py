@@ -20,7 +20,7 @@ The Access Token is a credential type and  that can be used by an application to
 
 #Q.2- Get the IP address of some common sites like Google, Facebook by using DNS lookup.
 
-#nslookup youtube.com
+#nslookup google.com
 Address:  192.168.43.1
 Name:    google.com
 Addresses:  2404:6800:4002:805::200e
